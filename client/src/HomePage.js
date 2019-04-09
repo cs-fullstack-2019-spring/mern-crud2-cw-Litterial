@@ -12,6 +12,7 @@ class HomePage extends Component {
     }
 
     componentDidMount() {
+        console.log('test');
         fetch('/rsvp')
             .then(grabData => {
                 return grabData.json()
