@@ -1,3 +1,6 @@
+POINTS: 2.0
+KEY: Super near complete. Missing a bit on edit/delete and a few comments, but great work overall.
+
 ## MERN/CRUD Classwork
 
 ### Exercise:
